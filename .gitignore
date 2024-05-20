@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+
+*.log
+wp-test.php
+wp-config.php
+
+.DS_store
+
+Thumbs.db
+
+*.app
+*.exe
+*.war
